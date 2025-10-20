@@ -26,7 +26,7 @@ Build a RESTful API using Express.js that implements standard CRUD operations, p
   - `PUT /api/products/:id`: Update an existing product
   - `DELETE /api/products/:id`: Delete a product
 
-### Task 3: Middleware Implementation
+### Task 3: Middleare Implementation
 - Create a custom logger middleware that logs the request method, URL, and timestamp
 - Implement a middleware to parse JSON request bodies
 - Create an authentication middleware that checks for an API key in the request headers
